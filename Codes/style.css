@@ -1,0 +1,15 @@
+
+Body {background-color: rgb(17, 116, 116);
+}
+h3{
+    color:azure
+}
+p{
+    color: White;
+}
+h3:hover{
+    color:azure; background-color: coral;
+}
+h1{
+    text-align: center; border: 5px solid white
+}
